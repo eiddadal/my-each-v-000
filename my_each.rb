@@ -1,3 +1,6 @@
-def my_each # put argument(s) here
-  # code here
+def my_each(collection) 
+while collection.length >0 
+puts collection 
+end 
+
 end
